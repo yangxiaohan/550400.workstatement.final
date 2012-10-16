@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.7)  16 OCT 2012 10:05
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.7)  16 OCT 2012 10:16
 entering extended mode
 **E:/notes/PhD*Year2*Sem1/550.400*Mathematical*Modeling*and*Consulting/workstat
 ementrevision.git/work*statement*final.tex
@@ -219,9 +219,9 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 106.
-
+ [5]
 ("E:\notes\PhD Year2 Sem1\550.400 Mathematical Modeling and Consulting\workstat
-ementrevision.git\work statement final.bbl" [5]) [6]
+ementrevision.git\work statement final.bbl") [6]
 ("E:\notes\PhD Year2 Sem1\550.400 Mathematical Modeling and Consulting\workstat
 ementrevision.git\work statement final.aux") ) 
 Here is how much of TeX's memory you used:
@@ -240,7 +240,7 @@ cm/cmmi10.pfb><E:/softwares/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:
 c/amsfonts/cm/cmsy10.pfb><E:/softwares/miktex/fonts/type1/public/amsfonts/cm/cm
 ti10.pfb><E:/softwares/miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb><E:/sof
 twares/miktex/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "work statement final.pdf" (6 pages, 130983 bytes).
+Output written on "work statement final.pdf" (6 pages, 131000 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
