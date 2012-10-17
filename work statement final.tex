@@ -84,7 +84,8 @@ The data for this project were collected for a study of the adult female Dungene
     \caption{Pattern of Data after Adjustments}
 \end{figure}
 
-\noindent Then we will focus on how premolt size changes with postmolt size for laboratory data and capture-recapture data.\\
+\noindent In the table above, the unit of the size is millimeter and in the column of type of data, 0 represents capture-recapture data and 1 represents laboratory data.\\
+Then we will focus on how premolt size changes with postmolt size for laboratory data and capture-recapture data.\\
 I will use the software R to analysis the data and build the statistical model. To begin with, I will first build a linear regression model with the postmolt size and the type of data (laboratory or capture-recapture data) as the independent variables and premolt size as the dependent variable. The type of data is categorical data. 0 represents capture-recapture data and 1 represents laboratory data. Then I will find the coefficients of the two independent variables and test how significant they are to see whether the two independent variables should be included in the model. Then I will obtain an equation in the following form:
 $$Premolt~Size=\beta_0 + \beta_1 (Postmolt~Size) + \beta_2 (Type~of~Data).$$ 
 I will also use other methods to decide whether I should include the type of the data in the model.\\
@@ -95,7 +96,7 @@ Premolt~Size = ~&\beta_0 + \beta_1 (Postmolt~Size) + \beta_2 (Type~of~Data)\\
 \end{align*}
 or the form containing the squared term:
 \begin{align*}
-Premolt~Size = ~&\beta_0 + \beta_1 (Postmolt~Size) + \beta_1 (Postmolt~Size)^2\\
+Premolt~Size = ~&\beta_0 + \beta_1 (Postmolt~Size) + \beta_2 (Postmolt~Size)^2\\
                & + \beta_3 (Type~of~Data).
 \end{align*}
 Stop when the performance of the model is satisfactory.
